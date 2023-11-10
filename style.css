@@ -6,8 +6,13 @@ body {
     margin: 0;
 }
 
+h1 {
+    text-align: center;
+}
+
 .wrapper {
     background: #1c1c1c;
+    background: #716cee;
     color: white;
     display: flex;
     align-items: center;
